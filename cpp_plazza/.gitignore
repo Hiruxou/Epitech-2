@@ -1,0 +1,13 @@
+*.o
+*.so
+plazza
+#*
+*~
+*.obj
+*.out
+*.tmp
+.tmp
+*.a
+Makefile
+*/Makefile
+*/moc_*

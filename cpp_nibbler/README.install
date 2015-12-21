@@ -1,0 +1,4 @@
+In order to install FREEGLUT on OpenSuse :
+
+sudo zypper install freeglut-devel
+

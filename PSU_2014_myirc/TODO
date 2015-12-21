@@ -1,0 +1,1 @@
+garcia : PRIVMSG, LIST, PART, QUIT, et RM CLIENT (l'appel a la fonction est commenté a la ligne 98 dans utilis.c) LOVE

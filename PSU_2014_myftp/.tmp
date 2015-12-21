@@ -1,0 +1,6 @@
+total 20
+drwxrwxr-x 2 nicolaschr nicolaschr 4096 mars  19 15:14 client_files
+drwxrwxr-x 2 nicolaschr nicolaschr 4096 mars  19 15:14 client_ftp
+-rw-rw-r-- 1 nicolaschr nicolaschr 1926 mars  19 15:39 Makefile
+drwxrwxr-x 2 nicolaschr nicolaschr 4096 mars  19 15:59 server_files
+drwxrwxr-x 2 nicolaschr nicolaschr 4096 mars  19 15:59 server_ftp

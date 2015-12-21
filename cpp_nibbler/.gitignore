@@ -1,0 +1,9 @@
+*.o
+*.so
+nibbler
+#*
+*~
+*.obj
+*.out
+*.tmp
+.tmp

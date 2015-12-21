@@ -1,0 +1,21 @@
+total 1452
+-rw-rw-r-- 1 nicolaschr nicolaschr    816 mars  17 13:06 client_command.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 144528 mars  17 16:07 client_command.o
+-rw-rw-r-- 1 nicolaschr nicolaschr   1448 mars  17 15:55 command2.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 145976 mars  17 16:07 command2.o
+-rw-rw-r-- 1 nicolaschr nicolaschr   1183 mars  17 16:06 command.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 145312 mars  17 16:07 command.o
+-rw-rw-r-- 1 nicolaschr nicolaschr   1521 mars  17 13:32 exec.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 147152 mars  17 16:07 exec.o
+-rw-rw-r-- 1 nicolaschr nicolaschr   1092 mars  17 11:28 main_server.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 144808 mars  17 16:07 main_server.o
+-rw-rw-r-- 1 nicolaschr nicolaschr   1375 mars  13 17:45 parser.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 144472 mars  17 16:07 parser.o
+-rw-rw-r-- 1 nicolaschr nicolaschr    847 mars  17 11:39 read_file.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 144312 mars  17 16:07 read_file.o
+-rwxrwxr-x 1 nicolaschr nicolaschr 115044 mars  17 16:07 server
+-rw-rw-r-- 1 nicolaschr nicolaschr   2471 mars  17 15:46 server.h
+-rw-rw-r-- 1 nicolaschr nicolaschr   1902 mars  17 13:31 utilis.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 147232 mars  17 16:07 utilis.o
+-rw-rw-r-- 1 nicolaschr nicolaschr    852 mars   9 17:14 xfonc.c
+-rw-rw-r-- 1 nicolaschr nicolaschr 143480 mars  17 16:07 xfonc.o

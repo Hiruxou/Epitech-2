@@ -1,0 +1,11 @@
+Pour compiler :
+
+qmake plazza.pro
+make (re)
+
+pour clean a fond : make distclean (ca rm tout, les Makefile aussi
+     	     	    	 	    c'est pratique quand on change
+				    le nom d'un fichier)
+
+
+Cyclomatic Complexity max : 6

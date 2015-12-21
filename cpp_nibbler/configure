@@ -1,0 +1,12 @@
+#!/bin/bash
+
+array=("libsdl1.2-dev" "freeglut3-dev" "libqt4-opengl")
+
+for element in ${array[@]}
+do
+    dpkg -s $element >/dev/null 2>&1 && {
+        echo "$element is installed."
+    } || {
+        echo "$element is not installed."
+    }
+done

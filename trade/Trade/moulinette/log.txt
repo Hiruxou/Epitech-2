@@ -1,0 +1,11 @@
+ROBOT TRADER QUANTUM LOG
+[Capital]	0
+[Period]	0
+
+
+--Day 1--
+[Capital] 0
+[Stock]	0
+
+--Day 1--
+

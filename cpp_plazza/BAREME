@@ -1,0 +1,48 @@
+Penalites administratives (2 / 2) : [COMPILATION, NOM EXECUTABLE OK] -> OK
+
+Versioning (0 / 0) :
+
+Questions de cours (0 / 3) :
+
+Lancement (1 / 1) : [PARAMETRES COHERENT PASSE A L'EXECUTABLE] -> OK
+
+Interactivite (0 / 1) : [QT INTERFACE POUR COMMANDER] -> IN PROGRESS
+
+Tests basiques (0 / 1) :
+
+Tests d'ouverture de cuisines (0 / 1) :
+
+Tests de repartition de charge (0 / 1) :
+
+Tests temporels (1 / 1) : [PREMIER PARAMETRE QUI PEUT PRENDRE DES VALEURS ENTRE 0 et 1 (0.45 seconde par exemple)] -> IN PROGRESS
+
+Encapsulation processus ET thread (0 / 2) : [ABSTRACTION CLASS THREAD]
+
+Thread Pool (2 / 2) : -> OK
+
+Encapsulation mutex ET variable conditionnelle (0 / 2) :
+
+Encapsulation pipes nommes (0 / 2) :
+
+Type serialisable (1 / 1) :
+
+Petit bonus local (0 / 1) : [OVERLOAD << et >>]
+
+-- MALUS --
+Passages par copie (0 / 0) :
+Parametres non const (0 / 0) :
+Fonctions membres non const (0 / 0) :
+Fonctions de la libc (0 / 0) :
+STL (0 / 0) :
+Parser (0 / 0) : [PARSER BASIQUE] -> OK (PARSER LL)
+Processus zombis (0 / 0) :
+Threads zombis (0 / 0) :
+Malus exceptionnels. (0 / 0) :
+
+
+-- 'BONUS' --
+Abstraction pizzas (1 / 1) : [PIZZA CLASS ABSTRAITE] -> OK
+Abstraction ingredients (1 / 1) : [INGREDIENT CLASS ABSTRAITE] -> OK
+Interface graphique (0 / 1) : [AFFICHAGE CUISINE ET OCCUPATION CUISINIER]
+Gestion dynamique (0 / 1) :
+Bonus exceptionnels (0 / 5) :
